@@ -1,0 +1,9 @@
+###### Requirements without Version Specifiers ######`
+
+discord
+Flask-SQLAlchemy
+flask-alchemydumps
+Flask
+requests
+SQLAlchemy
+beautifulsoup4
